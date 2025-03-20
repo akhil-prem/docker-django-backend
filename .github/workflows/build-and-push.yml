@@ -27,4 +27,4 @@ jobs:
         with:
           context: . # where the dockerfile is located
           push: true
-          tags: your-dockerhub-username/django-app:latest
+          tags: akhilprem/django-app:latest
